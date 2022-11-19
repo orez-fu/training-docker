@@ -6,16 +6,17 @@
       "text": "intro.md",
       "background": "setup.sh"
     },
-  "steps": [
-     {
-       "title": "1. First look on Is command",
-       "text": "step1/text.md"
-     }
-   ],
-   "finish": {
+    "steps": [
+      {
+        "title": "1. First look on Is command",
+        "text": "step1/text.md"
+      }
+    ],
+    "finish": {
       "text": "finish.md"
-   },
-   "backend": {
+    },
+    "backend": {
       "imageid": "ubuntu"
-   }
+    }
+  }
 }
