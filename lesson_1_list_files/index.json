@@ -17,6 +17,10 @@
       {
         "title": "3. Liệt kê tất cả đối tượng",
         "text": "step3/text.md"
+      },
+      {
+        "title": "4. Thêm nữa các đối số",
+        "text": "step4/text.md"
       }
     ],
     "finish": {

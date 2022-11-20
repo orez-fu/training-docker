@@ -21,17 +21,23 @@ Câu lệnh này liệt kê nhiều tệp tin hơn trước. Rất nhiều dotfi
 - `.` nghĩa là thư mục hiện tại mà chúng ta đang đứng thực hiện lệnh 
 - `..` đại diện cho thư mục cha, tức là thư mục hiện tại nằm trong một thư mục khác.
 
-Hãy thử ```plain
+Hãy thử 
+```plain
 ls .
 ```{{exec}}
+
 Sẽ cho chúng ta kết quả giống như lệnh ls. Và 
+
 ```plain
 ls ..
-```{{exec}} sẽ hiển thị nội dung của thư mục cha.
+```{{exec}}
+
+sẽ hiển thị nội dung của thư mục cha.
 
 Một tham số tương tự như `a` là `A`(in hoa của a). Trong khi `a` nghĩa là `all`, `A` nghĩa là `almost all`. Trong trường hợp này, câu lệnh sẽ hiển thị tất cả các file, ngoại trừ `.` và `..`.
 
 Cùng chạy lệnh:
+
 ```plain
 ls -A
 ```{{exec}}
