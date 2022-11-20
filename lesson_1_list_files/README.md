@@ -9,5 +9,6 @@
 7. Create aliases
 8. Working with users
 9. Permissions
-10. Crontab
-11. Test your knowledge
+10. Shell Script & Environment
+11. Crontab
+12. Test your knowledge
