@@ -7,7 +7,7 @@
     },
     "steps": [
       {
-        "title": "1. First look on Is command",
+        "title": "1. Cái nhìn đầu về lệnh ls",
         "text": "step1/text.md"
       }
     ],
