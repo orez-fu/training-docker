@@ -1,3 +1,3 @@
-## Look at you, learning Linux!
+## Congratulation
 
-You have first step in Linux country.
+Bạn đã hoàn thành `list files`, bạn đã sẵn sàng cho những bước tiếp theo trong hướng dẫn Linux.
