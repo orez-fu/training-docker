@@ -9,6 +9,14 @@
       {
         "title": "1. Cái nhìn đầu về lệnh ls",
         "text": "step1/text.md"
+      },
+      {
+        "title": "2. Thêm thông tin chi tiết",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "3. Liệt kê tất cả đối tượng",
+        "text": "step3/text.md"
       }
     ],
     "finish": {

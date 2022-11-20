@@ -1,7 +1,5 @@
 # Liệt kê tất cả đối tượng
 
-## Liệt kê tất cả đối tượng
-
 Câu lệnh ở phần trước chúng ta liệt kê những đối tượng thường. Tuy nhiên, còn có những tệp tin và thư mục ở trạng thái ẩn. Những đối tượng này luôn bắt đầu bằng ký tự `.` ở đầu của tên. Chúng ta có thể gọi những đối tượng này là `dotfiles`. Đừng quên rằng thư mục cũng là một loại tệp tin đặc biệt trong Linux.
 
 Ok, hãy cùng in ra nội dung của một thư mục lần nữa

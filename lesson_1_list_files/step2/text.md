@@ -1,6 +1,4 @@
-# Thêm thông tin chi tiết
-
-## Thêm thông tin chi tiết cho lệnh `ls`
+# Thêm thông tin chi tiết cho lệnh `ls`
 
 All right. Chúng ta đã biết cách lấy ra danh sách các mục trong thư mục. Chúng ta đã có một góc nhìn, nhưng không chi tiết với nhiều thông tin.
 
