@@ -1,0 +1,12 @@
+{
+  "title": "Training Linux",
+  "description": "Learn basic about Linux system",
+  "items": [
+    {
+      "path": "lesson_1_linux_files"
+    },
+    {
+      "path": "lesson_2_working_with_directory"
+    }
+  ]
+}

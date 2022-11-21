@@ -1,4 +1,4 @@
-## ls - câu lệnh đầu tiên
+# ls - câu lệnh đầu tiên
 
 Hello. Chào mừng bạn tới vương quốc Linux. Hãy cùng nhau học câu lệnh đầu tiên - `ls`
 

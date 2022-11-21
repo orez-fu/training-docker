@@ -1,0 +1,18 @@
+{
+  "title": "Lesson 2: Working with directories",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "1. Tạo thư mục",
+        "text": "step1/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  }
+}

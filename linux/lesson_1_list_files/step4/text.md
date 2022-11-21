@@ -34,8 +34,14 @@ Kích cỡ của tệp tin sẽ ở dạng dễ đọc hơn, với `K`, `M`, ho�
 
 ## Finale
 
-Một tham số rất rất hữu dụng `help`. Cho chúng ta thông tin chi tiết về câu lệnh. Hãy lấy sự trợ giúp của câu lệnh `ls`
+Một đối số rất rất hữu dụng `help`. Cho chúng ta thông tin chi tiết về câu lệnh. Hãy lấy sự trợ giúp của câu lệnh `ls`
 
 ```plain
 ls --help
+```{{exec}}
+
+Để xem nội dung của một thư mục, chúng ta có thể chỉ định đường dẫn tương đối hoặc đường dẫn tuyệt đối ở phía sau lệnh `ls`
+
+```plain
+ls /home/ubuntu -al
 ```{{exec}}
