@@ -16,13 +16,13 @@ Hãy thử in ra chỉ 2 dòng
 
 ```plain
 head -n 2 logfile
-```
+```{{exec}}
 
 Và bây giờ in ra 22 dòng
 
 ```plain
 head -n 22 logfile
-```
+```{{exec}}
 
 ## `tail`
 

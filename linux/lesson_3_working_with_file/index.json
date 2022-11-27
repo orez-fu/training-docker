@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Làm việc với tệp tin",
   "description": "",
   "details": {
     "intro": {
@@ -36,7 +36,9 @@
         "text": "step7/text.md"
       }
     ],
-    "finish": {}
+    "finish": {
+      "text": "finish.md"
+    }
   },
   "backend": {
     "imageid": "ubuntu"

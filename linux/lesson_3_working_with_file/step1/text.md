@@ -17,7 +17,7 @@ Yes, tệp tin đã tồn tại thông qua việc chúng ta sử dụng câu l�
 Chúng ta cũng có thể tạo nhiều tệp tin cùng lúc
 
 ```plain
-touch try1 try2 truy01
+touch try1 try2 try01
 ```{{exec}}
 
 Ok, bây giờ, chúng ta muốn chỉ muốn liệt kê `try1` và `try2`. Nếu chúng ta dùng câu lệnh `ls` như này

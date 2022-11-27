@@ -18,13 +18,13 @@ q
 
 ## `less`
 
-Có một công cụ tinh tế hơn để đọc nội dung của  tệp. Nó được gọi là `less`. Lệnh này cho chúng ta khả năng điều hướng tốt hơn. Chúng ta có thể quay lại bằng cách sử dụng phim `j`, và đọc tiếp nội dung bằng phím `k`(giống như phím ấn của `vim`), ngoài ra công cụ này còn cho phép chúng ta tìm kiếm theo từ khóa, bằng cách sử dụng ký tự `/`
+Có một công cụ tinh tế hơn để đọc nội dung của  tệp. Nó được gọi là `less`. Lệnh này cho chúng ta khả năng điều hướng tốt hơn. Chúng ta có thể quay lại bằng cách sử dụng phim `k`, và đọc tiếp nội dung bằng phím `j`(giống như phím ấn của `vim`), ngoài ra công cụ này còn cho phép chúng ta tìm kiếm theo từ khóa, bằng cách sử dụng ký tự `/`
 
 ```plain
 less logfile
 ```{{exec}}
 
-Bây giờ, hãy thử di chuyển nội dung bằng các phím điều hường `j` (lên) và `k` (xuống).
+Bây giờ, hãy thử di chuyển nội dung bằng các phím điều hường `k` (lên) và `j` (xuống).
 
 ```plain
 /Resolution
