@@ -1,0 +1,26 @@
+{
+  "title": "Lesson 4: Pipes",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    }
+  },
+  "steps": [
+    {
+      "title": "Cái nhìn đầu tiên về pipe",
+      "text": "step1/text.md"
+    },
+    {
+      "title": "Redirect tới tệp tin",
+      "text": "step2/text.md"
+    }
+  ],
+  "finish": {
+    "text": "finish.md"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
