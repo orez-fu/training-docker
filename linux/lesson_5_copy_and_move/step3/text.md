@@ -20,7 +20,7 @@ Bây giờ chúng ta đã có một tệp tin mới. Hãy xem, nếu nội dung 
 
 ```plain
 cat .profile
-cat .newfilewithcontent.txt
+cat newfilewithcontent.txt
 ```{{exec}}
 
 Nhìn vào nội dung, so sánh từng dòng từng dòng, thủ công như này không phải cách hay. Vì nếu tệp tin tới 10000, bạn sẽ nhìn đủ 10000? :)

@@ -16,7 +16,7 @@ Câu lệnh để copy file là `cp`. Cú pháp của lệnh rất đơn giản:
 
 ```plain
 cp source target
-```{{exec}}
+```
 
 Ok, câu lệnh đơn giản là sao chép nội dung của tệp tin được khai báo ở phần `source` tới một tệp tin mới ở phần `target`. Hãy sử dụng câu lệnh. Nhưng trước hết, chúng ta cần tạo một thư mục nơi các bản sao sẽ cư trú.
 
@@ -63,7 +63,7 @@ cp one ../targetdir/another-one
 Hãy kiểm tra
 
 ```plain
-ls -l ../target
+ls -l ../targetdir
 ```{{exec}}
 
 ## Sao chép hai hoặc nhiều tệp tin trong một câu lệnh

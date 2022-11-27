@@ -20,8 +20,17 @@ Và cuối cùng chúng ta đã sẵn sàng để di chuyển tệp tin đầu t
 
 ```plain
 ls -l sourcedir/one
+```{{exec}}
+
+```plain
 mv sourcedir/one movedfiles
+```{{exec}}
+
+```plain
 ls -l sourcedir/one
+```{{exec}}
+
+```plain
 ls -l movedfiles
 ```{{exec}}
 
@@ -29,8 +38,17 @@ Done. Và, chúng ta có thể di chuyển và đổi tên cho tệp tin:
 
 ```plain
 ls -l anotherdir/one
+```{{exec}}
+
+```plain
 mv anotherdir/one movedfiles/another-one
+```{{exec}}
+
+```plain
 ls -l anotherdir/one
+```{{exec}}
+
+```plain
 ls -l movedfiles
 ```{{exec}}
 
@@ -48,6 +66,9 @@ Hãy thử:
 
 ```plain
 mv sourcedir/two01 sourcedir/two02 movedfiles
+```{{exec}}
+
+```plain
 ls -l movedfiles
 ```{{exec}}
 
@@ -57,7 +78,13 @@ Và cuối cùng, chúng ta có thể di chuyển tất cả thư mục.
 
 ```plain
 mv anotherdir newdir
+```{{exec}}
+
+```plain
 ls -l anotherdir
+```{{exec}}
+
+```plain
 ls -l newdir
 ```{{exec}}
 
@@ -65,7 +92,16 @@ Và nó hoạt động tương tự như `cp` khi `mv` thực hiện di chuyển
 
 ```plain
 mv newdir movedfiles
+```{{exec}}
+
+```plain
 ls -l newdir
+```{{exec}}
+
+```plain
 ls -l movedfiles
+```{{exec}}
+
+```plain
 ls -l movedfiles/newdir
 ```{{exec}}
