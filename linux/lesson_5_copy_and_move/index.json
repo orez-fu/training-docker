@@ -1,5 +1,5 @@
 {
-  "title": "Lesson 4: Pipes",
+  "title": "Lesson 3: Copy and move files",
   "description": "",
   "details": {
     "intro": {
@@ -8,12 +8,16 @@
     },
     "steps": [
       {
-        "title": "1. Cái nhìn đầu tiên về pipe",
+        "title": "1. Copy files",
         "text": "step1/text.md"
       },
       {
-        "title": "2. Redirect tới tệp tin",
+        "title": "2. Move files",
         "text": "step2/text.md"
+      },
+      {
+        "title": "3. More possibilities",
+        "text": "step3/text.md"
       }
     ],
     "finish": {

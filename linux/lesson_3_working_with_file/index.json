@@ -8,31 +8,31 @@
     },
     "steps": [
       {
-        "title": "Tạo tệp tin",
+        "title": "1. Tạo tệp tin",
         "text": "step1/text.md"
       },
       {
-        "title": "Xóa tệp tin",
+        "title": "2. Xóa tệp tin",
         "text": "step2/text.md"
       },
       {
-        "title": "Tạo tệp tin với công cụ Vi/Vim/Nano",
+        "title": "3. Tạo tệp tin với công cụ Vi/Vim/Nano",
         "text": "step3/text.md"
       },
       {
-        "title": "Đọc tệp tin",
+        "title": "4. Đọc tệp tin",
         "text": "step4/text.md"
       },
       {
-        "title": "cat & vim",
+        "title": "4.1. cat & vim",
         "text": "step5/text.md"
       },
       {
-        "title": "less & more",
+        "title": "4.2. less & more",
         "text": "step6/text.md"
       },
       {
-        "title": "head & tail",
+        "title": "4.3. head & tail",
         "text": "step7/text.md"
       }
     ],
