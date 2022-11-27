@@ -1,3 +1,4 @@
+sudo apt install tree -y
 mkdir sourcedir
 
 touch sourcedir/one
