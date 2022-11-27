@@ -7,6 +7,21 @@
     },
     {
       "path": "lesson_2_working_with_directory"
+    },
+    {
+      "path": "lesson_3_working_with_file"
+    },
+    {
+      "path": "lesson_4_pipes"
+    },
+    {
+      "path": "lesson_5_copy_and_move"
+    },
+    {
+      "path": "lesson_6_command_top_history_ps"
+    },
+    {
+      "path": "lesson_7_create_aliases"
     }
   ]
 }

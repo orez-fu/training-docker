@@ -44,9 +44,9 @@ Bạn đang ở đâu?
 pwd
 ```{{exec}}
 
-Như bạn có thể suy đoán ra, chúng ta có thể di chuyển qua nhiều thư mục, bằng cách cung cấp ký tự ``/`` giữa các thư mục. Hãy nhớ lại lý thuyết bạn đã học về thư mục trong Linux.
+Như bạn có thể suy đoán ra, chúng ta có thể di chuyển qua nhiều thư mục, bằng cách cung cấp ký tự `/` giữa các thư mục. Hãy nhớ lại lý thuyết bạn đã học về thư mục trong Linux.
 
-[directories](dir.png)
+![directories](dir.png)
 
 
 Nếu bạn muốn trở về thư mục `home`, thư mục được mở khi chúng ta mở kịch bản, bạn có thể gõ 2 lần `cd ..`. Nhưng tuyệt vời hơn, chúng ta có thể kết hợp `..` theo cách sau:

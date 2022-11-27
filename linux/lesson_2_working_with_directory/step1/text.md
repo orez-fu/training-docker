@@ -3,7 +3,7 @@
 Trước tiên, hãy kiểm tra xem chúng ta có gì trong thư mục hiện tại.
 
 ```plain
-ls -ls
+ls -l
 ```{{exec}} 
 
 Để tạo thư mục, chúng ta cần sử dụng lệnh `mkdir`.

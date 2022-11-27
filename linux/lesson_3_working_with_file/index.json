@@ -1,0 +1,41 @@
+{
+  "title": "",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "Tạo tệp tin",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "Xóa tệp tin",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "Tạo tệp tin với công cụ Vi/Vim/Nano",
+        "text": "step3/text.md"
+      },
+      {
+        "title": "Đọc tệp tin",
+        "text": "step4/text.md"
+      },
+      {
+        "title": "cat & vim",
+        "text": "step5/text.md"
+      },
+      {
+        "title": "less & more",
+        "text": "step6/text.md"
+      },
+      {
+        "title": "head & tail",
+        "text": "step7/text.md"
+      }
+    ],
+    "finish": {}
+  }
+}
