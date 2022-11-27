@@ -1,4 +1,5 @@
-sudo apt install tree -y
+#!/bin/bash
+apt install tree -y
 mkdir sourcedir
 
 touch sourcedir/one
