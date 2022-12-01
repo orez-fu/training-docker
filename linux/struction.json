@@ -22,6 +22,18 @@
     },
     {
       "path": "lesson_7_create_aliases"
+    },
+    {
+      "path": "lesson_8_user_group"
+    },
+    {
+      "path": "lesson_9_permission"
+    },
+    {
+      "path": "lesson_10_shell_script"
+    },
+    {
+      "path": "lesson_11_crontab"
     }
   ]
 }
