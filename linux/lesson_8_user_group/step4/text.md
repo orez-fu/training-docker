@@ -29,13 +29,13 @@ Như bạn thấy, mật khẩu đã được thay đổi.
 Với lệnh `usermod` chúng ta có thể thay đổi primary group của `testuser3`
 
 ```plain
-usermod testuser3 -g testuer2
+usermod testuser3 -g testuser2
 ```{{exec}}
 
 Bây giờ, user `testuser3` đã có primary group là `testuser2`
 
 ```plain
-grep testuer3 /etc/passwd
+grep testuser3 /etc/passwd
 ```{{exec}}
 
 Ở đối số `-g`, chúng ta có thể truyền vào tên group như lệnh `usermod` vừa chạy hoặc GID như lệnh sau:
@@ -107,7 +107,7 @@ userdel testuser1
 Còn thư mục home nữa, chúng ta có thể xóa bằng cách thêm đối số như sau cho việc xóa `testuser3`:
 
 ```plain
-userdel -rf testuer3
+userdel -rf testuser3
 ```{{exec}}
 
 `r` - remove files, xóa thư mục home
