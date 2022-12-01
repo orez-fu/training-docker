@@ -17,7 +17,7 @@ Thực sự ngắn gọn hơn cho câu lệnh, kết quả tương tự.
 `ll` là một alias được cấu hình trong profile của người dùng trong hệ thống. `ll` rút gọn cho lệnh `ls -al`. Bạn có thể cảm nhận được tính hữu ích của alias qua ví dụ này chứ? Vậy thì hãy thử tạo thêm alias của riêng bạn
 
 ```plain
-alias lh='ls -alh`
+alias lh='ls -alh'
 ```{{exec}}
 
 Chúng ta có gì? Chúng ta đã tạo ra một alias mới là `lh`, mà khi chúng ta chạy
