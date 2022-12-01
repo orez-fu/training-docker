@@ -1,5 +1,5 @@
 {
-  "title": "Lesson 6: Command -top, ps, history",
+  "title": "Lesson 7: Aliases",
   "description": "",
   "details": {
     "intro": {
@@ -8,15 +8,15 @@
     },
     "steps": [
       {
-        "title": "1. Top command",
+        "title": "1. Work with aliases",
         "text": "step1/text.md"
       },
       {
-        "title": "2. Ps command",
+        "title": "2. Make aliases permanent",
         "text": "step2/text.md"
       },
       {
-        "title": "3. History",
+        "title": "3. Configure alias for all users",
         "text": "step3/text.md"
       }
     ],
