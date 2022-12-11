@@ -1,0 +1,26 @@
+{
+  "title": "Lesson 11: Crontab",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "1. What is crontab",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "2. Set the task in crontab",
+        "text": "step2/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
