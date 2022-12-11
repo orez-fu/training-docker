@@ -15,14 +15,14 @@ chmod 644 /home/student1/student1/student1
 chown -R student1:student1 /home/student1/
 
 # Create files and dirs for student3
-mkidr /home/student2/student2/
+mkdir /home/student2/student2/
 touch /home/student2/student2/student2
 chmod 755 /home/student2/student2
 chmod 644 /home/student2/student2/student2
 chown -R student2:student1 /home/student2/
 
 # Create files and dirs for student3
-mkidr /home/student3/student3/
+mkdir /home/student3/student3/
 touch /home/student3/student3/student3
 chmod 755 /home/student3/student3
 chmod 644 /home/student3/student3/student3
