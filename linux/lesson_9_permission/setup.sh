@@ -1,3 +1,5 @@
+mkdir testdir
+
 # Create 3 users
 useradd -m -d /home/student1 -g 1001 -u 1001 -s /bin/bash student1
 useradd -m -d /home/student2 -g 1001 -u 1002 -s /bin/bash student2
