@@ -28,7 +28,7 @@ Chúng ta thấy tệp tin `student3` (`-`) với quyền `644`. Bạn có thể
 Chúng ta bắt đầu làm việc với tệp tin, chúng ta có thể ghi nội dung vào tệp tin chứ?
 
 ```plain
-echo 'second line` >> student3
+echo 'second line' >> student3
 ```{{exec}}
 
 Yep, chúng ta không thấy có lỗi gì. Hãy kiểm tra nội dung của nó:
@@ -44,7 +44,7 @@ Lệnh để thay đổi permission là `chmod`. Đây lại là một sự vi�
 
 ```plain
 chmod permission object
-```{{exec}}
+```
 
 Ok, giờ là thời gian để thay đổi permission cho tệp tin của chúng ta!
 
