@@ -12,7 +12,7 @@ Chúng ta thấy danh sách tệp tin và thư mục ở dạng long list. Trư�
 
 ## Giải thích về chuỗi permissions
 
-![directories](permission_basic.png)
+![directories](permissions_basic.png)
 
 Tôi sẽ chia chuổi này thành 4 phần.
 
