@@ -1,39 +1,27 @@
 {
-  "title": "Training Linux 2",
-  "description": "Learn basic about Linux system",
+  "title": "K6 Foundation",
+  "description": "Hands-on guide to get started with k6",
   "items": [
     {
-      "path": "lesson_1_linux_files"
+      "path": "lesson_01_getting_started"
     },
     {
-      "path": "lesson_2_working_with_directory"
+      "path": "lesson_02_basic_usage"
     },
     {
-      "path": "lesson_3_working_with_file"
+      "path": "lesson_03_options"
     },
     {
-      "path": "lesson_4_pipes"
+      "path": "lesson_04_load_test_types"
     },
     {
-      "path": "lesson_5_copy_and_move"
+      "path": "lesson_05_outputs_format"
     },
     {
-      "path": "lesson_6_command_top_history_ps"
+      "path": "lesson_06_recording"
     },
     {
-      "path": "lesson_7_create_aliases"
-    },
-    {
-      "path": "lesson_8_user_group"
-    },
-    {
-      "path": "lesson_9_permission"
-    },
-    {
-      "path": "lesson_10_shell_script"
-    },
-    {
-      "path": "lesson_11_crontab"
+      "path": "lesson_07_integrate_kubernetes"
     }
   ]
 }

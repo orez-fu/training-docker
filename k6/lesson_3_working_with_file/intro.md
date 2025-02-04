@@ -1,3 +1,0 @@
-# Files - Làm việc với tệp tin
-
-Chúng ta đã biết cách làm việc với các thư mục. Đã đến lúc tìm hiểu những thao tác làm việc với tệp tin: tạo, xóa hay ghi, đọc nội dung,...
