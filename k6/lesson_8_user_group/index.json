@@ -1,0 +1,38 @@
+{
+  "title": "Lesson 8: Work with users & groups",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "1. Intro",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "2. File",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "3. Work with user",
+        "text": "step3/text.md"
+      },
+      {
+        "title": "4. Modify user",
+        "text": "step4/text.md"
+      },
+      {
+        "title": "5. Work with group",
+        "text": "step5/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

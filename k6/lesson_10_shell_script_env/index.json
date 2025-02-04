@@ -1,0 +1,30 @@
+{
+  "title": "Lesson 10: Environment variable & Shell script",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "1. Environment variables",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "2. What is shell script?",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "3. Write your first script",
+        "text": "step3/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Lesson 9: Permissions",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "1. Theory",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "2. Theory, continue",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "3. Change permission for files",
+        "text": "step3/text.md"
+      },
+      {
+        "title": "4. Change permissions for directories",
+        "text": "step4/text.md"
+      },
+      {
+        "title": "5. Owner & Group",
+        "text": "step5/text.md"
+      },
+      {
+        "title": "6. Change owner & group",
+        "text": "step6/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

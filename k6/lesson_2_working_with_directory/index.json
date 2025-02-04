@@ -1,0 +1,33 @@
+{
+  "title": "Lesson 2: Working with directories",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "1. Tạo thư mục",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "2. Move between directories",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "3. Come back home!",
+        "text": "step3/text.md"
+      },
+      {
+        "title": "4. Xóa thư mục",
+        "text": "step4/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
