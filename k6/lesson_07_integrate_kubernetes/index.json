@@ -1,0 +1,30 @@
+{
+  "title": "Lesson 6: Command -top, ps, history",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "1. Top command",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "2. Ps command",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "3. History",
+        "text": "step3/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

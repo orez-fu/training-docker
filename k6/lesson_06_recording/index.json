@@ -1,0 +1,30 @@
+{
+  "title": "Lesson 7: Aliases",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "1. Work with aliases",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "2. Make aliases permanent",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "3. Configure alias for all users",
+        "text": "step3/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
